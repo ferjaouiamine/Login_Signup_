@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_tp1">Tp1Activity</string>
+    <string name="title_activity_tp2">Tp2Activity</string>
+    <string name="title_activity_tp31">Tp31Activity</string>
+    <string name="title_activity_tp32">Tp32Activity</string>
+    <string name="title_activity_sample_data">SampleData</string>
+</resources>
